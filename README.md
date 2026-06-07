@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  A sleek, offline-first client-side JWT token decoder and signature visualizer.
+  name: web-jwt-debugger version: 1.0 type: Repository author: VarshuAi description: >   A sleek, offline-first client-side JWT token decoder and signature visualizer. primary_tech: HTML
 primary_tech: HTML
 ```
 
